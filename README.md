@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BlakeWinser
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity and C#
+- 🌱 I’m currently developing indie projects using Unity and C#
 
 <!---
 BlakeWinser/BlakeWinser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
